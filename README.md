@@ -13,4 +13,4 @@ Xem chi tiết trong file báo cáo đính kèm.
 
 ## Tác giả
 Trung Kiên
-https://app.diagrams.net/raw.githubusercontent.com/trungkienpk11-dotcom/restaurant-management-system/refs/heads/main/Source/class.drawio
+https://app.diagrams.net/?url=https://app.diagrams.net/raw.githubusercontent.com/trungkienpk11-dotcom/restaurant-management-system/refs/heads/main/Source/class.drawio
