@@ -4,7 +4,7 @@
 https://app.diagrams.net/?url=https://raw.githubusercontent.com/trungkienpk11-dotcom/restaurant-management-system/refs/heads/main/Source/Class%20Diagram.drawio
 
 ## 2. Use Case Diagram
-https://app.diagrams.net/?url=LINK_RAW
+https://app.diagrams.net/?url=https://raw.githubusercontent.com/trungkienpk11-dotcom/restaurant-management-system/refs/heads/main/Source/Use%20Case%20Diagram.drawio
 
 ## 3. Activity Diagram
 https://app.diagrams.net/?url=LINK_RAW
